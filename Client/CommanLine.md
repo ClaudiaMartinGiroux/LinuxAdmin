@@ -33,7 +33,7 @@ Name value pairs that are stored and your programs can use. For example: usernam
 ## Links
 Links are entries that tell you where the contents are in the system (shortcut locations).
 - `ln [file] [file2]` for hardlinks
-- `ln -s [file] [file3]' for a symbolyc link
+- `ln -s [file] [file3]` for a symbolyc link
 They will all have same contents (with hard and symlinks) but if we want to remove file, file2 will remain there with contents but file3 might still appear in dir but has no contents.
 
 ## Absolute vd Relative Path
