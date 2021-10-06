@@ -1,6 +1,6 @@
 # Linux System Administration Full Course
 
-Hi! Based on the amazing full course provided by **Greek's Lesson** that can be found [here](https://www.youtube.com/watch?v=wsh64rjnRas&t=19618s) I have generated some notes!
+Hi! Based on the amazing full course provided by **Geek's Lesson** that can be found [here](https://www.youtube.com/watch?v=wsh64rjnRas&t=19618s) I have generated some notes!
 
 ## Notes Structure
 The note files are divided into 2 directories:
